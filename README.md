@@ -21,10 +21,4 @@ A Spotify-inspired music player built using **HTML, CSS, and JavaScript**.
 1. Clone the repo
 2. Open `index.html` in browser
 
-## Screenshots
-
-(Add screenshots here)
-
----
-
 Made by Dhanu Bansal
