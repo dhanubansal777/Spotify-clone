@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# node / editor
+node_modules/
+.vscode/
+
+# audio files (OPTIONAL – see note below)
+#songs/*.mp3
